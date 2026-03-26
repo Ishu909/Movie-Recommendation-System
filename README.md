@@ -1,3 +1,5 @@
+<img width="911" height="785" alt="Screenshot 2026-03-26 231745" src="https://github.com/user-attachments/assets/dfcbcc50-78d7-4fbb-883d-ae8c6add0724" />
+<img width="863" height="775" alt="Screenshot 2026-03-26 231950" src="https://github.com/user-attachments/assets/76088ce4-5546-4d9a-a5b9-c6fb620f95ec" />
 # 🎬 Movie Recommendation System (Cosine Similarity)
 
 ## 📌 Overview
